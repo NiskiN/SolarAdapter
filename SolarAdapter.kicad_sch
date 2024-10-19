@@ -1496,7 +1496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SolarAdapter:SAMTEC_FTSH-103-04-L-DH"
+		(property "Footprint" "SolarAdapter:SAMTEC_TMS-103-01-L-D-RA"
 			(at 161.29 96.52 0)
 			(effects
 				(font
